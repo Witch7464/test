@@ -1,0 +1,27 @@
+h1{
+    text-align: center;   
+    color: darkslategrey;
+    text-decoration: underline;
+}
+body{
+    text-align: justify;
+    background-color: bisque;
+}
+p{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.center{
+    text-align: center;
+}
+.main{
+    border: darkcyan 10px inset;
+    margin-left: 70px;
+    margin-right: 70px;
+    }
+.right{
+    text-align: right;
+}
+.left{
+    text-align: left;
+}
